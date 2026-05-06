@@ -83,7 +83,7 @@
 
 ###
 
-<div align="left">
+<p align="left">
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="28" alt="twitter logo" />
   </a>
@@ -93,7 +93,7 @@
   <a href="https://facebook.com/yourusername" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="28" alt="facebook logo" />
   </a>
-</div>
+</p>
 
 ###
 
