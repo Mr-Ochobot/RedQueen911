@@ -1,8 +1,8 @@
-<h1 align="center">I'M Mr-Ochobot</h1>
+<h1 align="center">Just Mr.Ochobot</h1>
 
 ###
 
-<p align="center">My name is ... and I'm a ..., from ....</p>
+<p align="center">Just Call Me Ochobot....</p>
 
 ###
 
