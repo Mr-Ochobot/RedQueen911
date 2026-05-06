@@ -15,13 +15,13 @@
 <div>
   <img align="right" height="222" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zjbm1kNTh4cnBkbzkxaWljbzBsNnB4dzZtajNoZ3lsbGJpZHp6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" style="margin-left: 30px;" />
 
-✨ **Creating bugs since ...**
+✨ **WebDev ...**
 
-📚 **I'm currently learning ...**
+📚 **MobileAppDev ...**
 
-🎯 **Goals:** ...
+🎯 **CyberSecurity:** ...
 
-🎲 **Fun fact:** ...
+🎲 **FreeThinker:** ...
 
 </div>
 
